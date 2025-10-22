@@ -53,7 +53,7 @@ body {
 .logo {
   font-family: 'Bangers', cursive;
   font-weight: 400;
-  font-size: 40px;
+  font-size: 2rem;
   color: #4B2E05;
   letter-spacing: 1px;
 }
@@ -611,4 +611,5 @@ body {
         font-size: 3.5rem;
     }
 }
+
 
